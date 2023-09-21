@@ -1,2 +1,2 @@
 # online-auction
-Online Auction platform fo buying and selling items
+Online Auction platform for buying and selling items
